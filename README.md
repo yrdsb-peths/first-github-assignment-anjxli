@@ -7,7 +7,7 @@ Then answer in the space below each question:
 
 2. Last name - Vathanakumaran
 
-3. Favourite animal - an elephant
+3. Favourite animal - a dog
 
 
 Now click the green 'commit changes' button at the bottom.
